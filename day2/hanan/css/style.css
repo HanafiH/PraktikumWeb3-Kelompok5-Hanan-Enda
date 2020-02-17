@@ -1,0 +1,21 @@
+.side-bg{
+    resize: both;
+    z-index: 1;
+    position: absolute;
+    right: 0;
+    top: 0;
+    /* bottom: 0; */
+    /* or any custom size */
+    /* background-image: url("../img/side-bg.png"); */
+
+    /* height: 100%; */
+    width: auto;
+    object-fit: cover;
+    /* background-repeat: no-repeat; */
+    background-position: right;
+
+}
+
+.full-y{
+    height: 100%;
+}
